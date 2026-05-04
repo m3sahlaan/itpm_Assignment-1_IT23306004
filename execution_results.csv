@@ -1,3 +1,7 @@
 file_type,file_path,preview_detected,status,screenshot
 PNG,S:\ITPM\test_automation_ui\sample.png,True,PASS,S:\ITPM\test_automation_ui\results\preview_pass.png
 PNG,S:\ITPM\test_automation_ui\sample.png,True,PASS,S:\ITPM\test_automation_ui\results\preview_pass.png
+PNG,S:\ITPM\test_automation_ui\sample.png,True,PASS,S:\ITPM\test_automation_ui\results\preview_pass.png
+PNG,S:\ITPM\test_automation_ui\sample.png,False,FAIL,S:\ITPM\test_automation_ui\results\preview_error.png
+PNG,S:\ITPM\test_automation_ui\sample.png,False,FAIL,S:\ITPM\test_automation_ui\results\preview_error.png
+PNG,S:\ITPM\test_automation_ui\sample.png,True,PASS,S:\ITPM\test_automation_ui\results\preview_pass.png
