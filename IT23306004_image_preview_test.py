@@ -28,7 +28,7 @@ def parse_args():
     parser.add_argument("--url", default=DEFAULT_URL)
     parser.add_argument("--png", default="sample.png")
     parser.add_argument("--out-dir", default="results")
-    parser.add_argument("--csv", default="execution_results.csv")
+    parser.add_argument("--csv", default="IT23306004_execution_results.csv")
     parser.add_argument("--headless", action="store_true", default=False)
     parser.add_argument("--timeout-ms", type=int, default=DEFAULT_TIMEOUT_MS)
     parser.add_argument("--slow-mo-ms", type=int, default=DEFAULT_SLOW_MO_MS)
